@@ -90,7 +90,7 @@ $$
 \begin{aligned}
 \frac{d}{dt} \frac{\partial x_k}{\partial q_m} = \sum_l \frac{\partial^2 x_k}{\partial q_l q_m} \dot q_l + \frac{\partial
 { #2}
- x_k}{\partial t \partial q_m}\\
+ x_k}{\partial t \partial q_m} \\
 = \frac{\partial}{\partial q_m}{}\sum_l \frac{\partial x_k}{\partial q_l} \dot q_l + \partial_t x_k
 \end{aligned}
 $$
