@@ -107,7 +107,7 @@ So we can solve the Pendulum with polar coordinates:
 
 >[!note]- Example: Mathematical Pendulum 
 >![WhatsApp Image 2025-10-18 at 23.26.47_de8fe4c1.jpg|100](/img/user/WhatsApp%20Image%202025-10-18%20at%2023.26.47_de8fe4c1.jpg)
->$$\begin{aligned} \mathcal L &= \frac{mR^2}{2} \dot \theta
+>$$\begin{aligned} \mathcal L &= \frac{mR^2}{2} \dot{\theta}
 { #2}
  + \frac{mR^2}{2} +mgR \cos \theta - \Phi (R) \\
 >\frac{d}{dl}(mR^2 \dot \theta) &= 2m R \dot R \dot \theta + mR^2 \ddot \theta = -mgR \cdot \sin \theta \\
