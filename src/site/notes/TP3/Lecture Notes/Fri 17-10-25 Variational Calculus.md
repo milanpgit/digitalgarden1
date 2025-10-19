@@ -84,7 +84,10 @@ We will show the Euler-Lagrange equation does not care about coordinate changes
 
 Choose $\vec x (\vec q, t)$ (any coordinate system)
 $$\dot x_k = \sum_l \frac{\partial x_k}{\partial q_l} \cdot \dot q_l + \partial_t x_k$$
-Note: $$\frac{\partial \dot x_k}{\partial \dot q_m} = \frac{\partial x_k}{\partial q_m} \tag{1}$$
+Note: 
+$$
+\frac{\partial \dot x_k}{\partial \dot q_m} = \frac{\partial x_k}{\partial q_m} \tag{1}
+$$
 So: 
 $$
 \begin{aligned}
