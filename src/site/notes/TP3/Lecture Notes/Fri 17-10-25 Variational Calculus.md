@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tp-3/lecture-notes/fri-17-10-25-variational-calculus/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/tp-3/lecture-notes/fri-17-10-25-variational-calculus/"}
 ---
 
 
