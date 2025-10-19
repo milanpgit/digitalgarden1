@@ -9,7 +9,10 @@ Consider a function $S$
 $$S = \int_{t_I}^{t_E} dt \space \mathcal L \left( q(t), \dot q (t), ... , t \right)$$
 It is extrema iff $\delta S = 0 \iff \frac{dS}{d\epsilon}\Big|_{\epsilon =0} = 0$
 
-so, for every small variation in argument / path  $$ q_\epsilon(t) = q(t) + \epsilon \cdot\delta q(t) \text{ and } \dot q_\epsilon(t) = \dot q + \epsilon \cdot \frac{d}{dt} \delta q(t) $$
+so, for every small variation in argument / path  
+$$
+q_\epsilon(t) = q(t) + \epsilon \cdot\delta q(t) \text{ and } \dot q_\epsilon(t) = \dot q + \epsilon \cdot \frac{d}{dt} \delta q(t) 
+$$
 we require that 
 $$
 \frac{dS[q_{\epsilon}]}{d \epsilon}\big|_{\epsilon=0} = 0
