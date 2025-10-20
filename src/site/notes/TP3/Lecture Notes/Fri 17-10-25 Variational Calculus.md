@@ -40,7 +40,9 @@ $$
 >
 >Note: $\left|\frac{d \vec q}{d \theta} \right| = \left | \dot z(\theta)\cdot \hat z + R \cdot \hat \theta (\theta) \right|= \sqrt{\dot z^2+R^2}$
 >
->so the path length becomes $$L = \int_{\theta_I}^{\theta_E} d\theta \space \sqrt{ (\dot z(\theta))^2 + R^2}$$
+>so the path length becomes
+> $$L = \int_{\theta_I}^{\theta_E} d\theta \space \sqrt{ (\dot z(\theta))^2 + R^2}
+> $$
 >The limits are fixed and the function depends only on z and its derivative this matches the setup for variational calculus 
 >$$L = \int_{t_I}^{t_E} d\theta \space \mathcal L(z(\theta),\dot z(\theta))$$
 >We must also fix the end and start points, making sure there is no variation of $\theta_I$ and $\theta_E$
